@@ -18,7 +18,7 @@
   --background-primary: var(--dracula-primary);
   --background-secondary: var(--dracula-secondary);
   --background-secondary-alt: var(--dracula-secondary);
-  --background-tertiary: var(--dracula-accent);
+  --background-tertiary: var(--dracula-accent-alpha);
   --background-accent: var(--dracula-accent);
   --scrollbar-thumb: var(--dracula-primary-light);
   --scrollbar-thin-thumb: var(--dracula-primary-light);
